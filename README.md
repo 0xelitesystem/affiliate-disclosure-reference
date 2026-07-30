@@ -10,15 +10,19 @@ An affiliate disclosure tells your audience that you earn a commission when they
 
 ## What is inside
 
-- `01-what-needs-disclosing.md` affiliate relationships and material connections.
-- `02-the-ftc-requirement.md` clear and conspicuous, in plain terms.
-- `03-where-to-place-it.md` close to the recommendation, before the click.
-- `04-how-to-word-it.md` honest, plain, unambiguous wording.
-- `05-common-violations.md` the disclosure mistakes that fail the rule.
+- [01-what-needs-disclosing.md](01-what-needs-disclosing.md) affiliate relationships and material connections.
+- [02-the-ftc-requirement.md](02-the-ftc-requirement.md) clear and conspicuous, in plain terms.
+- [03-where-to-place-it.md](03-where-to-place-it.md) close to the recommendation, before the click.
+- [04-how-to-word-it.md](04-how-to-word-it.md) honest, plain, unambiguous wording.
+- [05-common-violations.md](05-common-violations.md) the disclosure mistakes that fail the rule.
 
 ## The stance
 
 This reference treats disclosure as both a legal duty and a trust practice. A clear disclosure costs nothing and protects both your audience and you; a missing or hidden one risks both your reputation and a regulatory problem.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
